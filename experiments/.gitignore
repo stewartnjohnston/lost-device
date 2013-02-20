@@ -1,0 +1,31 @@
+#
+# name:         .gitignore
+#
+# reference:    https://help.github.com/articles/ignoring-files
+#
+
+# built application files
+*.apk
+*.ap_
+
+# Java class files
+*.class
+
+# generated directories
+bin/
+gen/
+build/
+
+
+# Eclipse
+.metadata/
+
+
+
+# Emacs editor files #
+######################
+*~
+[#]*[#]
+.\#*
+
+
